@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paulo Lima
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior DevOps | HTML, CSS & JavaScript**  
 🇧🇷 Brazil
 
 IT professional with experience in technical support, hardware, and infrastructure.
